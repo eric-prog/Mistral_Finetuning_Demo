@@ -18,12 +18,13 @@ Goal: Build a demo to showcase Mistral's finetuning API endpoints.
 Requirements:
 - User should be able to upload files
 - User should be able to use/select training files for finetuning
-- Should show list of active finetuning jobs
+- Should show list of active finetuning jobs (should poll for status every 5 seconds if job is active)
 - Smooth UX + responsive
 ```
 
 ## 🎨 Features
 - Mistral Upload/Finetune API
+- Next.js / Chakra UI / React-icons
 - Fully responsive UI (mobile, tablet, computer).
 
 ## ⚙️ Setup
