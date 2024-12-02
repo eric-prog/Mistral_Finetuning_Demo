@@ -45,6 +45,10 @@ Create a ```.env.local``` file.
 MISTRAL_API_KEY=your_mistral_api_key
 ```
 
+3. Example dataset (jsonl file)
+
+There is an example you can upload and use [here](./data/example.jsonl)
+
 ## 🔮 Run the App
 
 To start the application, run:
